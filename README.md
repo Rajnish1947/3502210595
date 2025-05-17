@@ -1,5 +1,10 @@
-# 3502210595
 
+# 3502210595
+name:"rajnish kumar",
+reg:3502210595,
+collage:avit
+mod:6205115897,
+email:kumarrajnish28443@gmail.com
 
 
 ![Screenshot (1623)](https://github.com/user-attachments/assets/bf6ce409-6060-484c-8e67-400ca7b4f90b)
